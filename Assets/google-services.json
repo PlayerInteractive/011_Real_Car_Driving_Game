@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "909176527795",
+    "project_id": "farm-animal-transporter-truck",
+    "storage_bucket": "farm-animal-transporter-truck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909176527795:android:39f69a78136857602c49c6",
+        "android_client_info": {
+          "package_name": "com.pi.farm.animals.tranposrt.truck.sim.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909176527795-8qcdavuvv0h9gv2fegp3rbvg1quqasj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_irKLVXxENUZgG7gK3J7NU-douxw11KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909176527795-8qcdavuvv0h9gv2fegp3rbvg1quqasj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6781160945274899~7086340105"
+    }
+  ],
+  "configuration_version": "1"
+}

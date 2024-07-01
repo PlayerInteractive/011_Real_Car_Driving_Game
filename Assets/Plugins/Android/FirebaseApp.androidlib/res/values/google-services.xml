@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">909176527795</string>
+  <string name="google_storage_bucket" translatable="false">farm-animal-transporter-truck.appspot.com</string>
+  <string name="project_id" translatable="false">farm-animal-transporter-truck</string>
+  <string name="google_api_key" translatable="false">AIzaSyB_irKLVXxENUZgG7gK3J7NU-douxw11KE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB_irKLVXxENUZgG7gK3J7NU-douxw11KE</string>
+  <string name="google_app_id" translatable="false">1:909176527795:android:39f69a78136857602c49c6</string>
+  <string name="default_web_client_id" translatable="false">909176527795-8qcdavuvv0h9gv2fegp3rbvg1quqasj9.apps.googleusercontent.com</string>
+</resources>
