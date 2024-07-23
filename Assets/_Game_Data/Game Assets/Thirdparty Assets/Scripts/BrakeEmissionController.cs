@@ -7,7 +7,11 @@ public class BrakeEmissionController : MonoBehaviour
     public Material emissionMaterial; 
     
     private bool isBraking = false;
-    
+
+    private void Awake()
+    {
+        carController = GetComponentInParent<RCC_CarControllerV3>();
+    }
 
     void Update()
     {

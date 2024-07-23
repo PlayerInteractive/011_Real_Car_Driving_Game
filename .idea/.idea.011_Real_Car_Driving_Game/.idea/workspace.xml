@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ed33ce-e2de-4aeb-b309-22db4f431b20" name="Changes" comment="" />
+    <list default="true" id="a7ed33ce-e2de-4aeb-b309-22db4f431b20" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.011_Real_Car_Driving_Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.011_Real_Car_Driving_Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AutoSave/AutoSave_00.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AutoSave/AutoSave_00.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AutoSave/AutoSave_01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AutoSave/AutoSave_01.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AutoSave/AutoSave_02.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AutoSave/AutoSave_02.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AutoSave/AutoSave_03.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AutoSave/AutoSave_03.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AutoSave/AutoSave_04.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AutoSave/AutoSave_04.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AutoSave/AutoSave_05.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AutoSave/AutoSave_05.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameAnalytics/Plugins/Playmaker/Examples/GameAnalyticsPlayMakerDemo.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Banners/BANNER.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Banners/BANNER.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Banners/MEDIUM_RECTANGLE.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Banners/MEDIUM_RECTANGLE.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Interstitials/1024x768.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Interstitials/1024x768.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Rewarded/1024x768.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/Resources/PlaceholderAds/Rewarded/1024x768.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MonoScript/Assembly-CSharp/DriftCanvasManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MonoScript/Assembly-CSharp/DriftCanvasManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/build_info" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/build_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/BuildReport/Build Report Tool previous version (3.4.14).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/Material/Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/Material/Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/Material/Orange.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/Material/Orange.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/Material/Yellow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/Material/Yellow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/Material/blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/Material/blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/Material/red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/Material/red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/RealisticCarControllerV3/For NGUI/Necessary NGUI Dashboard Scripts.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/RealisticCarControllerV3/For Photon/Necessary Photon Scripts and Vehicles.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/RealisticCarControllerV3/Resources/RCCAssets/RCC_Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/RealisticCarControllerV3/Resources/RCCAssets/RCC_Settings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/Scripts/BrakeEmissionController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/Scripts/BrakeEmissionController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/Scripts/DriftPhysics.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/Scripts/DriftPhysics.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/player interactive/5 level/start point/texture/Materials/floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/player interactive/5 level/start point/texture/Materials/floor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/player interactive/5 level/start point/texture/Materials/white florr.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/player interactive/5 level/start point/texture/Materials/white florr.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/player interactive/Models/01_player interactive/ganster game/Materials/1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/player interactive/Models/01_player interactive/ganster game/Materials/1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/player interactive/Models/All Extra Things/ConeEffects/ConeEffect.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/player interactive/Models/All Extra Things/ConeEffects/ConeEffect.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/player interactive/drift cars/garage/Materials/images.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/player interactive/drift cars/garage/Materials/images.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/player interactive/player interactive/cars/car 16/Materials/light.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Game Assets/Thirdparty Assets/player interactive/player interactive/cars/car 16/Materials/light.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Scenes/GamePlay.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Scenes/GamePlay.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game_Data/Scenes/MenuScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game_Data/Scenes/MenuScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GvhProjectSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GvhProjectSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +46,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/75e4adfee4594a18ab46d398e4adfa628800/93/dc377b84/RewardedAd.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c130875f7b394250a2d3617f6b5a735b13ca00/3b/2f176512/Random.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../Extra Projects/Export A new Bike/stntgame/AssetRipperExport638549114169542169/Stuntgame/Assets/Scripts/Newtonsoft.Json/Newtonsoft/Json/Serialization/CachedAttributeGetter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../Extra Projects/Export A new Bike/stntgame/AssetRipperExport638549114169542169/Stuntgame/Assets/Scripts/Newtonsoft.Json/Newtonsoft/Json/Utilities/ReflectionUtils.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/colerchager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -81,6 +115,7 @@
       <workItem from="1719578622394" duration="3762000" />
       <workItem from="1719644916513" duration="13029000" />
       <workItem from="1719670536202" duration="604000" />
+      <workItem from="1721679052795" duration="3072000" />
     </task>
     <servers />
   </component>

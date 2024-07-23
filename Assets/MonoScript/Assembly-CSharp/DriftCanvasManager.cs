@@ -5,7 +5,6 @@ public class DriftCanvasManager : MonoBehaviour
 {
 	[Header("CONFIG")]
 	public GameObject canvasWheelAll;
-	public GameObject canvasJumpAll;
 	public Image imgWheel;
 	public Text textFactor;
 	public Text textPoint;
@@ -20,12 +19,10 @@ public class DriftCanvasManager : MonoBehaviour
 	private float lastCoins;
 	private float lastCoinsCount;
 	public static int COINS = 0;
-	public Text currentHeightText;
 	//public AudioClip[] sounds;
 	private void Awake()
 	{
 		canvasWheelAll.SetActive(false);
-		canvasJumpAll.SetActive(false);
 		//currentHeightText.gameObject.SetActive(false);
 		textPoint.text = string.Empty;
 		textFactor.text = string.Empty;

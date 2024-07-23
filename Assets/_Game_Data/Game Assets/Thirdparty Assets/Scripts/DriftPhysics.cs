@@ -167,34 +167,14 @@ public class DriftPhysics : MonoBehaviour
 		driftCanvasManager.UpdateFactor(0,0);
 		speedDelayDrift = maxspeedDelayDrift;
 		driftCanvasManager.canvasWheelAll.SetActive(false);
-		driftCanvasManager.canvasJumpAll.SetActive(false);
 		isDrifting = false;
 	}
 
-	public bool isGrounded = false;
-	public float groundCheckDistance=2f;
-	public LayerMask LayerMask;
-	RaycastHit hit;
-	public float scorevalue;
 
 	public void FixedUpdate()
 	{
 		currentVel = thisRigidbody.velocity;
 		currentVelAngle = thisRigidbody.angularVelocity;
-		
-		
-		isGrounded = true;
-		if (Physics.Raycast(transform.position, -transform.up, out hit, groundCheckDistance, LayerMask)) {
-			Debug.DrawRay(transform.position, -transform.up * groundCheckDistance, Color.green);
-			isGrounded = false;
-			scorevalue = 0;
-			driftCanvasManager.currentHeightText.color=Color.white;
-		}
-		driftCanvasManager.canvasJumpAll.SetActive(true);
-		scorevalue = isGrounded ? scorevalue + groundCheckDistance * 5 * Time.deltaTime : scorevalue;
-		driftCanvasManager.currentHeightText.text = "Jump: " + scorevalue.ToString("0");
-		
-		
 	}
 
 	private void OnCollisionEnter(Collision check)
